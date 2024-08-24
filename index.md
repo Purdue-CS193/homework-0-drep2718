@@ -1,10 +1,8 @@
 # Aiden Drepaniotis's First CS193 Homework
 
--Bulleted 
-
-I like the sycronus online class supplemental to our lecture
-I like how the class is run by students instead of professors
-I am excited to learn the content of this class which will help me in my academic and professional future
+- I like the sycronus online class supplemental to our lecture
+- I like how the class is run by students instead of professors
+- I am excited to learn the content of this class which will help me in my academic and professional future
 
 ## Welcome to GitHub Pages
 
