@@ -4,6 +4,11 @@
 - I like how the class is run by students instead of professors.
 - I am **excited** to learn the content of this class which will help me in my academic and professional future **!**
 
+------------------------------------------------------------------------------------------------------------------------
+1. My name is Aiden Drepaniotis and I am from Long Island New York.
+2. I am a **Computer Science** Major.
+3. My favorite book right now is _Dune by Frank Herbert_ *!*
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
